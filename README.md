@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Hamza
+# Hey! 👋 I'm Hamza
 
 I’m a **Software Engineer** from **Pakistan** with a passion for delivering high-quality solutions across various domains. I enjoy creating user-friendly applications, ensuring software quality, making data-driven decisions, and managing projects to ensure successful outcomes.
 
