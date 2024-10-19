@@ -16,7 +16,7 @@ I have a diverse skill set that spans from **Frontend Development** to **Quality
 ### **Frontend Development**:
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries**: React Js, React Native, Redux
-- **UI Tools**: Figma, Semantic UI, Bootstrap, Chakea UI
+- **UI Tools**: Figma, Semantic UI, Bootstrap, Chakra UI
 - **Version Control**: Git, GitHub
 
 ### **Quality Assurance**:
