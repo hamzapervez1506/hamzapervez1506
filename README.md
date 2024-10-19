@@ -1,6 +1,9 @@
 # Hi there! 👋 I'm Hamza
 
-Welcome to my GitHub profile! I’m a **Frontend Developer**, **Data Analyst**, **QA Engineer**, and **Project Manager** passionate about delivering high-quality solutions across various domains. I enjoy creating user-friendly applications, ensuring software quality, making data-driven decisions, and managing projects to ensure successful outcomes.
+I’m a **Software Engineer** from **Pakistan** with a passion for delivering high-quality solutions across various domains. I enjoy creating user-friendly applications, ensuring software quality, making data-driven decisions, and managing projects to ensure successful outcomes.
+
+![Animated GIF](https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966)
+
 
 ## 🚀 About Me
 
@@ -40,8 +43,12 @@ I have a diverse skill set that spans from **Frontend Development** to **Quality
 - Leading **projects** from initiation to completion, ensuring **timely delivery** and **high-quality results**.
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [https://www.linkedin.com/in/hamza-pervez/](#)
-- **Email**: [hamzapervez397@gmail.com](#)
+
+[![Facebook](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)](https://www.facebook.com/prince.hamza.3158/)
+[![Instagram](https://img.icons8.com/?size=100&id=118497&format=png&color=000000)](https://www.instagram.com/hamzapervez19/)
+[![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/hamza-pervez/)
+[![Email](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:hamzapervez397@gmail.com)
+
 
 Feel free to explore my repositories, collaborate on projects, or reach out if you'd like to work together!
 
